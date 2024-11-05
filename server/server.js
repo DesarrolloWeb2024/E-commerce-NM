@@ -19,10 +19,10 @@ app.get('/api/products', (req, res) => {
     },
     {
       id: 2, 
-      name: 'Teclado Gamer',  
-      oldPrice: 22500, 
-      price: 21000, 
-      urlImg: 'https://www.heavenimagenes.com/heavencommerce/9297a8d7-5b05-4931-b287-026a1b306e14/images/v2/SOUL/2015_xlarge.jpg' 
+      name: 'Remera estampada negra',  
+      oldPrice: 35000, 
+      price: 29900, 
+      urlImg: 'https://nayaindumentaria.com/wp-content/uploads/2021/11/copa-y-messi-negro-1.jpg' 
     },
     { 
       id: 3, 
