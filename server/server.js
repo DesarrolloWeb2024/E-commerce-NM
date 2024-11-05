@@ -12,10 +12,10 @@ app.get('/api/products', (req, res) => {
   const products = [
     { 
       id: 1, 
-      name: 'Mouse Logitech', 
+      name: 'microfono beringher c1', 
       oldPrice: 37500, 
       price: 35000, 
-      urlImg: 'https://i.ebayimg.com/images/g/UosAAOSwTV5mRyCj/s-l400.png'
+      urlImg: 'https://dcdn.mitiendanube.com/stores/001/159/718/products/mc48-51-e05bcabf069ac1cdf316158344776382-1024-1024.jpg'
     },
     {
       id: 2, 
