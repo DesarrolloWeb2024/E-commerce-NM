@@ -33,10 +33,10 @@ app.get('/api/products', (req, res) => {
     },
     { 
       id: 3, 
-      name: 'Taza Código De Programacion',  
-      oldPrice: 3500, 
+      name: 'gatoo negro',  
+      oldPrice: 5000, 
       price: 2200, 
-      urlImg: 'https://http2.mlstatic.com/D_NQ_NP_786656-MLA46832914211_072021-O.webp' 
+      urlImg: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt8pCcU438Qew8KnCmyWCzboxBbJVFEnCCbg&s' 
     },
     
     
