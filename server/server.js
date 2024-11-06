@@ -24,9 +24,9 @@ app.get('/api/products', (req, res) => {
       price: 21000, 
       urlImg: 'https://www.heavenimagenes.com/heavencommerce/9297a8d7-5b05-4931-b287-026a1b306e14/images/v2/SOUL/2015_xlarge.jpg' 
     },
-    { 
+    {
       id: 3, 
-      name: 'Disco-solido interno kingston sata-960g',  
+      name: 'raton gato interno kingston sata-960g',  
       oldPrice: 18500, 
       price: 18000, 
       urlImg: 'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQwqHX1fVP2DUn6mEw05ukydZ6KOgkf0w3N3ZEHHJnDUW7WtxSEzdOZ73YxCn-FBC5kYxGeF4wy9zakpXVDOXbjQouNAmyH1LTbzkyuK2t0u9We1eAqfkFFDw&usqp=CAE' 
